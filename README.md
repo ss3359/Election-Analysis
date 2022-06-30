@@ -23,7 +23,10 @@ In this project, we addressed the following outcomes of the election. The first 
     The breakdown of votes for each county shows that Arrapahoe had the lowest county turnout and Denver had the highest county turnout. We have wrote and executed code on printing out the county with the highest voter turnout. As we expected, the python code printed out the highest county turnout as Denver. This is shown below.
     
     
-    <img width="311" alt="Screen Shot 2022-06-14 at 6 42 00 PM" src="https://user-images.githubusercontent.com/104328106/176743698-fa46f456-72d4-4cee-a82b-db0d83bab0d5.png">
+  <img width="247" alt="Screen Shot 2022-06-30 at 11 51 15 AM" src="https://user-images.githubusercontent.com/104328106/176744451-52a42e0b-55e1-41a6-b1d7-fcbad7b34d76.png">
+
+
+
     
     
 
