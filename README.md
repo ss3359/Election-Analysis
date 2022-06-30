@@ -6,5 +6,7 @@ Python is a programming language which is highly useful and reliable for data an
 
 # Election Audit Results
 In this project, we addressed the following outcomes of the election. The first outcome was the total votes cast in the congressional election. Here is the text file of the results presented in the project. Tom and Seth have provided the questions for us to answer throughout the duration of our election analysis. 
-    * How many votes were cast in this congressional election? 
-    In this election, the total votes cast were 
+    - How many votes were cast in this congressional election? 
+      In this election, the total votes cast were 
+      
+    - 
