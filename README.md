@@ -19,13 +19,27 @@ In this project, we addressed the following outcomes of the election. The first 
     
     <img width="257" alt="Screen Shot 2022-06-29 at 9 12 41 PM" src="https://user-images.githubusercontent.com/104328106/176742934-dfffcf0d-8861-44fa-948e-6512ba41819a.png">
     
+    The breakdown of votes for each county shows that Arrapahoe had the lowest county turnout and Denver had the highest county turnout. 
     
-    The breakdown of votes for each county shows that Arrapahoe had the lowest county turnout and Denver had the highest county turnout. We have wrote and executed code on printing out the county with the highest voter turnout. As we expected, the python code printed out the highest county turnout as Denver. This is shown below.
+3. Which county had the largest number of votes?   
+    We have wrote and executed code on printing out the county with the highest voter turnout. As we expected, the python code printed out the highest county turnout as Denver. This is shown below.
     
     
-  <img width="247" alt="Screen Shot 2022-06-30 at 11 51 15 AM" src="https://user-images.githubusercontent.com/104328106/176744451-52a42e0b-55e1-41a6-b1d7-fcbad7b34d76.png">
+      <img width="247" alt="Screen Shot 2022-06-30 at 11 51 15 AM" src="https://user-images.githubusercontent.com/104328106/176744451-52a42e0b-55e1-41a6-b1d7-fcbad7b34d76.png">
 
+4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate recieved. 
+   In this project, we have wrote and executed code describing the percent breakdown for each candidate in the election. Here is the grade breakdown as shown below. 
+   
+   <img width="279" alt="Screen Shot 2022-06-29 at 9 13 02 PM" src="https://user-images.githubusercontent.com/104328106/176745366-cc1c8183-c30e-44ba-9b09-1bdf5623a710.png">
+   
+   We can see clearly the percent breakdown and is a readable file for any user. Acorrding to the code, relying on the excel spreadsheet containing the votes, Dianna DeGette is the winner of the turnout based on popular wote. 
+   
+5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
+   According to the python code, we calculated that Dianna DeGette is the winner. Here is the information below    
 
+   <img width="196" alt="Screen Shot 2022-06-29 at 9 13 11 PM" src="https://user-images.githubusercontent.com/104328106/176746065-a7bd9404-501e-482b-a892-b9bc09788d5c.png">
+   
+   From our python script, we have printed out the winner, percent distribution and the number of votes on a separate file. Dianna had a 73.8 % turnout with a winning voting count of 272,892 votes. 
 
     
     
