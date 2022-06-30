@@ -9,6 +9,8 @@ In this project, we addressed the following outcomes of the election. The first 
 
 1. How many votes were cast in this congressional election? 
       In this election, the total votes cast were 369,711 votes. This shown below and in the provided text file. 
+      
+      
       <img width="196" alt="Screen Shot 2022-06-29 at 9 12 31 PM" src="https://user-images.githubusercontent.com/104328106/176743935-6b7f30d9-f61d-4362-b272-c814efe27b0e.png">
 
 
@@ -16,7 +18,11 @@ In this project, we addressed the following outcomes of the election. The first 
     In the election, we have broken down the votes by county. The percentage distribution is shown below and is in the text file provided. 
     
     <img width="257" alt="Screen Shot 2022-06-29 at 9 12 41 PM" src="https://user-images.githubusercontent.com/104328106/176742934-dfffcf0d-8861-44fa-948e-6512ba41819a.png">
-    The breakdown of votes for each county shows that Arrapahoe had the lowest county turnout and Denver had the highest county turnout. We have wrote and executed code on printing out the county with the highest voter turnout. As we expected, the python code printed out the highest county turnout as Denver. This is shown below. 
+    
+    
+    The breakdown of votes for each county shows that Arrapahoe had the lowest county turnout and Denver had the highest county turnout. We have wrote and executed code on printing out the county with the highest voter turnout. As we expected, the python code printed out the highest county turnout as Denver. This is shown below.
+    
+    
     <img width="311" alt="Screen Shot 2022-06-14 at 6 42 00 PM" src="https://user-images.githubusercontent.com/104328106/176743698-fa46f456-72d4-4cee-a82b-db0d83bab0d5.png">
     
     
