@@ -9,7 +9,8 @@ In this project, we addressed the following outcomes of the election. The first 
 
 1. How many votes were cast in this congressional election? 
       In this election, the total votes cast were 369,711 votes. This shown below and in the provided text file. 
-      <img width="718" alt="Screen Shot 2022-06-22 at 1 21 53 PM" src="https://user-images.githubusercontent.com/104328106/176741510-51c62944-823a-4e6c-a1f2-9c653a26b20b.png">
+      <img width="196" alt="Screen Shot 2022-06-29 at 9 12 31 PM" src="https://user-images.githubusercontent.com/104328106/176743935-6b7f30d9-f61d-4362-b272-c814efe27b0e.png">
+
 
 2. Provide the breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
     In the election, we have broken down the votes by county. The percentage distribution is shown below and is in the text file provided. 
