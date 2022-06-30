@@ -42,5 +42,5 @@ In this project, we addressed the following outcomes of the election. The first 
    From our python script, we have printed out the winner, percent distribution and the number of votes on a separate file. Dianna had a 73.8 % turnout with a winning voting count of 272,892 votes. 
 
     
-    
+    # Election-Audit Summary
 
