@@ -42,5 +42,7 @@ In this project, we addressed the following outcomes of the election. The first 
    From our python script, we have printed out the winner, percent distribution and the number of votes on a separate file. Dianna had a 73.8 % turnout with a winning voting count of 272,892 votes. 
 
     
-    # Election-Audit Summary
+# Election-Audit Summary
+Based on the data and the text file provided, we have found that Dianna DeGette winning the election. Based on our findings in this election, we have a buisness proposal to the election comission on how this script can be used for any elelction. One modification that needs to be considered for any election is calculuating the percentage of votes that were made in person, or voted with an abtintee ballot. 
+    
 
