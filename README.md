@@ -50,5 +50,7 @@ Based on the data and the text file provided, we have found that Dianna DeGette 
 
 In this particular election, this occured one year after the census was conducted. Therefore, the voting data may or may not be skewed. What would deepen our analysis further is to gather the data from the last election to this election. That way, we can clearly see a better representation of the distribution of voters before and after the census was conducted. 
 
+Also, this election occured during the Coronavirus Pandemic. Therefore, traditional voting methods have been changed. 
+
     
 
