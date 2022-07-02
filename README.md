@@ -48,6 +48,7 @@ In this project, we addressed the following outcomes of the election. The first 
 # Election-Audit Summary
 Based on the data and the text file provided, we have found that Dianna DeGette winning the election. Based on our findings in this election, we have a buisness proposal to the election comission on how this script can be used for any elelction. One modification that needs to be considered for any election is calculuating the percentage of votes that were made in person, or voted with an abtintee ballot. The other factor to be cosidered is breaking down the number of votes by political party affiiliation. For future elections, we would like to find out the reasoning why people voted for each candidate. We would like to distribute the votes by age group, ethnicity, and gender. From this way, we can get a much clearer description why voters chose their desired candidate. 
 
+In this particular election, this occured one year after the census was conducted. Therefore, the voting data may or may not be skewed. What would deepen our analysis further is to gather the data from the last election to this election. That way, we can clearly see a better representation of the distribution of voters before and after the census was conducted. 
 
     
 
