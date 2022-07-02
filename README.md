@@ -8,6 +8,7 @@ Python is a programming language which is highly useful and reliable for data an
 In this project, we addressed the following outcomes of the election. The first outcome was the total votes cast in the congressional election. Here is the text file of the results presented in the project. Tom and Seth have provided the questions for us to answer throughout the duration of our election analysis. We have provided images of the text files to answer the questions about the 
 
 1. How many votes were cast in this congressional election? 
+
       In this election, the total votes cast were 369,711 votes. This shown below and in the provided text file. 
       
       
@@ -15,13 +16,15 @@ In this project, we addressed the following outcomes of the election. The first 
 
 
 2. Provide the breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
+
     In the election, we have broken down the votes by county. The percentage distribution is shown below and is in the text file provided. 
     
     <img width="257" alt="Screen Shot 2022-06-29 at 9 12 41 PM" src="https://user-images.githubusercontent.com/104328106/176742934-dfffcf0d-8861-44fa-948e-6512ba41819a.png">
     
     The breakdown of votes for each county shows that Arrapahoe had the lowest county turnout and Denver had the highest county turnout. 
     
-3. Which county had the largest number of votes?   
+3. Which county had the largest number of votes? 
+
     We have wrote and executed code on printing out the county with the highest voter turnout. As we expected, the python code printed out the highest county turnout as Denver. This is shown below.
     
     
@@ -43,6 +46,8 @@ In this project, we addressed the following outcomes of the election. The first 
 
     
 # Election-Audit Summary
-Based on the data and the text file provided, we have found that Dianna DeGette winning the election. Based on our findings in this election, we have a buisness proposal to the election comission on how this script can be used for any elelction. One modification that needs to be considered for any election is calculuating the percentage of votes that were made in person, or voted with an abtintee ballot. The other factor to be cosidered is breaking down the number of votes by political party affiiliation. For future elections, we would like to find out the reasoning why people voted for each candidate. We would like to distribute the votes by age group, ethnicity, and gender. 
+Based on the data and the text file provided, we have found that Dianna DeGette winning the election. Based on our findings in this election, we have a buisness proposal to the election comission on how this script can be used for any elelction. One modification that needs to be considered for any election is calculuating the percentage of votes that were made in person, or voted with an abtintee ballot. The other factor to be cosidered is breaking down the number of votes by political party affiiliation. For future elections, we would like to find out the reasoning why people voted for each candidate. We would like to distribute the votes by age group, ethnicity, and gender. From this way, we can get a much clearer description why voters chose their desired candidate. 
+
+
     
 
